@@ -11,4 +11,3 @@ print("Degrees Celsius is : %.2f" % c)
 
 # Reference:
 # https://www.techiedelight.com/zh-tw/restrict-floats-to-two-decimal-points-python/
-

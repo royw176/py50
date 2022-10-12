@@ -14,4 +14,3 @@ cf = float(d * 3.14)
 ca = float((r^2) * 3.14)
 print("Circumference is %.2f" % cf)
 print("Circle Area is %.2f" % ca)
-
