@@ -1,5 +1,5 @@
 '''
-Description: Day4-symbol of operation
+Description: Day4 symbol of operation
 Version: 0.1
 Author: Roy
 '''
